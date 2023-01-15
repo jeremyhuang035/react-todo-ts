@@ -1,0 +1,22 @@
+.item {
+  margin: 1rem 0;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2);
+  padding: 1rem;
+  background-color: #f7f5ef;
+}
+
+.rmBtn {
+  font: inherit;
+  background-color: #cd0404;
+  border: 1px solid #cd0404;
+  color: #201d0f;
+  padding: 0.5rem 1.5rem;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.rmBtn:hover,
+.rmBtn:active {
+  background-color: #eb455f;
+  border-color: #eb455f;
+}
